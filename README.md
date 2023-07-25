@@ -1,4 +1,4 @@
-<h1>Limitify</h1>
+<h1>Limitify Inc.</h1>
 <ul>
   <li>
   <h3>The Wall</h3>    
